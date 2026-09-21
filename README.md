@@ -1,39 +1,52 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Roman Shulpov — Java Backend">
+  <img src="./assets/header.svg" width="100%" alt="Roman Shulpov" />
 </p>
 
 ## About Me
 
-- 🎓 Software Engineering student
-- 💻 Focus: Java backend development
-- 🐍 Secondary: Python for automation and scripting
-- 🌐 Web: Familiar with HTML5 / CSS3
+<p>
+  <strong>Software Engineering student</strong> focused on <strong>Java backend development</strong>.<br>
+  <sub>Building practical projects, learning backend architecture and APIs, and using Python for automation and scripting.</sub>
+</p>
+
+<p>
+  <code>Java</code>
+  <code>Python</code>
+  <code>Backend</code>
+  <code>Automation</code>
+  <code>HTML / CSS</code>
+</p>
 
 ---
 
 ## Stack
 
-<sub><b>Languages & Core</b></sub>
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-0B1220?style=flat-square&logo=openjdk&logoColor=7DD3FC" alt="Java">
-  <img src="https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=7DD3FC" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-0B1220?style=flat-square&logo=html5&logoColor=7DD3FC" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0B1220?style=flat-square&logo=css3&logoColor=7DD3FC" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=7DD3FC" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=7DD3FC" alt="GitHub">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<sub><b>Roadmap / Learning Next</b></sub>
+### Backend / Learning Next
 
 <p>
-  <img src="https://img.shields.io/badge/OOP-0F172A?style=flat-square&logoColor=60A5FA" alt="OOP">
-  <img src="https://img.shields.io/badge/Collections-0F172A?style=flat-square&logoColor=60A5FA" alt="Collections">
-  <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=60A5FA" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Hibernate-0F172A?style=flat-square&logo=hibernate&logoColor=60A5FA" alt="Hibernate">
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=60A5FA" alt="Docker">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Clean_Code-111827?style=for-the-badge&logoColor=white" alt="Clean Code" />
 </p>
 
 ---
@@ -42,79 +55,72 @@
 
 <p align="center">
   <img
-    src="https://leetcard.jacoblin.cool/Roman-Shulpov?theme=dark&font=Inter&ext=heatmap"
-    alt="LeetCode Stats"
-  >
-</p>
-
-<p align="center">
-  <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Roman-Shulpov&show_icons=true&hide_border=true&border_radius=12&bg_color=0B1220&title_color=7DD3FC&text_color=C9D1D9&icon_color=38BDF8&ring_color=38BDF8&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Roman-Shulpov&show_icons=true&hide_border=true&border_radius=16&bg_color=0F172A&title_color=A78BFA&text_color=E5E7EB&icon_color=22D3EE&ring_color=F59E0B&include_all_commits=true"
     alt="GitHub Stats"
-  >
+  />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Shulpov&layout=compact&langs_count=6&hide_border=true&border_radius=12&bg_color=0B1220&title_color=7DD3FC&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Shulpov&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=0F172A&title_color=A78BFA&text_color=E5E7EB"
     alt="Top Languages"
-  >
+  />
 </p>
 
 ---
 
-## Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Roman-Shulpov/TT-AI-Agent"><b>TT-AI-Agent</b></a>
+      <a href="https://github.com/Roman-Shulpov/TT-AI-Agent"><strong>TT-AI-Agent</strong></a>
       <br>
-      <sub>Browser AI Agent</sub>
+      <sub>Browser AI agent</sub>
       <br><br>
-      <code>Python</code>
-      <code>Playwright</code>
-      <code>pytest</code>
+      <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=7DD3FC" alt="Python" />
+      <img src="https://img.shields.io/badge/Playwright-1E293B?style=flat-square&logo=playwright&logoColor=7DD3FC" alt="Playwright" />
+      <img src="https://img.shields.io/badge/pytest-1E293B?style=flat-square&logo=pytest&logoColor=7DD3FC" alt="pytest" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Roman-Shulpov/bmx_bot"><b>bmx_bot</b></a>
+      <a href="https://github.com/Roman-Shulpov/bmx_bot"><strong>bmx_bot</strong></a>
       <br>
       <sub>Telegram bot</sub>
       <br><br>
-      <code>Python</code>
-      <code>aiogram</code>
-      <code>FastAPI</code>
+      <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=7DD3FC" alt="Python" />
+      <img src="https://img.shields.io/badge/aiogram-1E293B?style=flat-square&logo=telegram&logoColor=7DD3FC" alt="aiogram" />
+      <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=7DD3FC" alt="FastAPI" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>ZHELEZOBETON Market</b>
+      <strong>ZHELEZOBETON Market</strong>
       <br>
       <sub>Commercial web layout</sub>
       <br><br>
-      <code>HTML5</code>
-      <code>CSS3</code>
+      <img src="https://img.shields.io/badge/HTML5-1E293B?style=flat-square&logo=html5&logoColor=F97316" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1E293B?style=flat-square&logo=css3&logoColor=38BDF8" alt="CSS3" />
     </td>
     <td width="50%" valign="top">
-      <b>Java / Spring Backend</b>
+      <strong>Java Backend Project</strong>
       <br>
-      <sub>Next portfolio project</sub>
+      <sub>Next portfolio build</sub>
       <br><br>
-      <code>Java</code>
-      <code>Spring Boot</code>
-      <code>PostgreSQL</code>
+      <img src="https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=F59E0B" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-1E293B?style=flat-square&logo=springboot&logoColor=84CC16" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
     </td>
   </tr>
 </table>
 
 ---
 
-## Connect with me
+### 🤝 Connect with me:
 
 <p>
   <a href="https://t.me/RomkaKub">
-    <img src="https://img.shields.io/badge/Telegram-RomkaKub-0B1220?style=flat-square&logo=telegram&logoColor=7DD3FC" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:romkakub@mail.ru">
-    <img src="https://img.shields.io/badge/Email-romkakub%40mail.ru-0B1220?style=flat-square&logo=maildotru&logoColor=7DD3FC" alt="Email">
+  <a href="mailto:romka.kyb@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white" alt="Email" />
   </a>
 </p>
