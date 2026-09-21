@@ -66,6 +66,16 @@
   />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/RomanShulpov/">
+    <img
+      width="56%"
+      src="https://leetcard.jacoblin.cool/RomanShulpov?theme=dark&font=Inter&ext=heatmap"
+      alt="LeetCode Stats"
+    />
+  </a>
+</p>
+
 ---
 
 ## Featured Projects
