@@ -49,10 +49,6 @@
   <img src="https://img.shields.io/badge/Clean_Code-111827?style=for-the-badge&logoColor=white" alt="Clean Code" />
 </p>
 
----
-
-## Stats
-
 ## Stats
 
 <p align="center">
