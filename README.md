@@ -14,9 +14,9 @@
 ## About
 
 - 🇷🇺 Software Development student from Russia
-- ☕ Building toward **Java backend development** — Java is my main direction
+- ☕ Main direction: **Java backend development**
 - 🐍 I use **Python** for automation, bots and practical tools
-- 🌐 I know **HTML / CSS** and can build clean web interfaces
+- 🌐 I know **HTML / CSS** and can build responsive interfaces
 - 🔧 I use **Git & GitHub** to keep projects structured and versioned
 - 🎯 Current focus: **Java Core → OOP → Collections**
 - 🛠 Outside code: **BMX, 3D printing and visual design**
@@ -36,73 +36,61 @@ I prefer a simple learning loop: **understand → build → explain → refactor
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Backend roadmap
+### On the backend roadmap
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-roadmap-20252B?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-roadmap-20252B?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Hibernate](https://img.shields.io/badge/Hibernate-roadmap-20252B?style=flat-square&logo=hibernate&logoColor=gold)
+![Hibernate](https://img.shields.io/badge/Hibernate-roadmap-20252B?style=flat-square&logo=hibernate&logoColor=F4CA16)
 ![JUnit5](https://img.shields.io/badge/JUnit5-roadmap-20252B?style=flat-square&logo=junit5&logoColor=C21325)
+![Spring Security](https://img.shields.io/badge/Spring_Security-roadmap-20252B?style=flat-square&logo=springsecurity&logoColor=6DB33F)
 ![Docker](https://img.shields.io/badge/Docker-roadmap-20252B?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-roadmap-20252B?style=flat-square&logo=linux&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-roadmap-20252B?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 > Roadmap badges show **where I'm going**, not technologies I claim to have mastered.
 
 ---
 
-## What I build
+## Selected projects
 
-```text
-Java learning projects  →  backend fundamentals and clean code
-Python tools            →  automation, bots and AI-assisted utilities
-Web                     →  responsive interfaces with HTML / CSS
-Real projects           →  from an idea to a working result
-```
-
----
-
-## Featured work
-
-### [`TT-AI-Agent`](https://github.com/Roman-Shulpov/TT-AI-Agent) — Browser AI Agent
+### [TT-AI-Agent](https://github.com/Roman-Shulpov/TT-AI-Agent) · Browser AI Agent
 
 A browser agent that receives a task in natural language and works in visible Chromium.  
 The model chooses the next action from the current page; Python validates the command and executes it through Playwright.
 
-`Python` `Playwright` `pytest` `Codex / OpenAI / Ollama`
+`Python` · `Playwright` · `pytest` · `Codex / OpenAI / Ollama`
 
-**Why it matters:** it is not a static demo — the repository includes a model-driven loop, safety checks, automated tests, recorded demos and documented limitations.
+**Highlights:** model-driven browser loop, argument validation, confirmation before sensitive actions, automated tests, recorded demos and documented limitations.
 
-### `ZHELEZOBETON Market` — commercial web project
+### [bmx_bot](https://github.com/Roman-Shulpov/bmx_bot) · Telegram bot
 
-An e-commerce project for a local clothing brand. The production code is kept in a private repository.
+A Python Telegram bot project built around my BMX community.
 
-`Web` `HTML / CSS` `Product work`
+`Python` · `aiogram` · `FastAPI` · `aiohttp`
 
----
+### ZHELEZOBETON Market · Commercial web project
 
-## Backend roadmap
+An e-commerce project for a local clothing brand. The production repository is private.
 
-**Now**
-
-`Java Core`
-
-**Next**
-
-`OOP` → `Exceptions & Collections` → `Files & Git`
-
-**Backend**
-
-`SQL / PostgreSQL` → `HTTP / REST` → `Spring Boot` → `JPA / Hibernate`
-
-**Production basics**
-
-`Testing` → `Spring Security` → `Docker` → `CI/CD`
-
-📍 Detailed checklist and project milestones: **[ROADMAP.md](./ROADMAP.md)**
+`Web` · `HTML / CSS` · `Product work`
 
 ---
 
-## Portfolio plan
+## Java backend roadmap
+
+<p align="center">
+  <img src="./assets/roadmap.svg" width="100%" alt="Java Backend Roadmap">
+</p>
+
+**Now:** `Java Core`  
+**Next:** `OOP` → `Exceptions & Collections` → `Files & Git`  
+**Backend:** `SQL / PostgreSQL` → `HTTP / REST` → `Spring Boot` → `JPA / Hibernate`  
+**Production basics:** `Testing` → `Spring Security` → `Docker` → `CI/CD`
+
+📍 Full checklist and project milestones: **[ROADMAP.md](./ROADMAP.md)**
+
+---
+
+## Portfolio pipeline
 
 | Stage | Repository | What it should prove |
 | :-- | :-- | :-- |
