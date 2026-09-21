@@ -1,105 +1,35 @@
-<svg width="1280" height="280" viewBox="0 0 1280 280" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="280" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050A12"/>
-      <stop offset="0.55" stop-color="#0A1220"/>
-      <stop offset="1" stop-color="#071827"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="64" y1="0" x2="1180" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2563EB"/>
-      <stop offset="0.52" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#7DD3FC"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1035 105) rotate(144) scale(360 230)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0EA5E9" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#7DD3FC" stroke-width="0.7" opacity="0.07"/>
-    </pattern>
-  </defs>
-
-  <rect width="1280" height="280" rx="18" fill="url(#bg)"/>
-  <rect width="1280" height="280" rx="18" fill="url(#grid)"/>
-  <rect width="1280" height="280" rx="18" fill="url(#glow)"/>
-
-  <rect x="64" y="56" width="4" height="168" rx="2" fill="url(#accent)"/>
-
-  <text x="92" y="78"
-        fill="#7DD3FC"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="14"
-        font-weight="700"
-        letter-spacing="2.8">
-    SOFTWARE ENGINEERING / BACKEND
-  </text>
-
-  <text x="88" y="139"
-        fill="#F0F6FC"
-        font-family="Inter,Segoe UI,Arial,sans-serif"
-        font-size="52"
-        font-weight="800"
-        letter-spacing="-0.6">
-    ROMAN SHULPOV
-  </text>
-
-  <text x="91" y="180"
-        fill="#C9D1D9"
-        font-family="Inter,Segoe UI,Arial,sans-serif"
-        font-size="20"
-        font-weight="500">
-    Java backend · Python · HTML / CSS · Git
-  </text>
-
-  <text x="91" y="214"
-        fill="#64748B"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13"
-        letter-spacing="0.6">
-    github.com/Roman-Shulpov
-  </text>
-
-  <rect x="790" y="50" width="420" height="180" rx="15" fill="#0B1220" fill-opacity="0.92" stroke="#1E3A5F"/>
-  <rect x="790" y="50" width="420" height="3" rx="1.5" fill="url(#accent)"/>
-
-  <circle cx="818" cy="76" r="4" fill="#2563EB"/>
-  <circle cx="834" cy="76" r="4" fill="#38BDF8"/>
-  <circle cx="850" cy="76" r="4" fill="#7DD3FC"/>
-
-  <text x="818" y="110"
-        fill="#64748B"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13">public final class Profile {</text>
-
-  <text x="842" y="140"
-        fill="#94A3B8"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13">focus</text>
-  <text x="930" y="140"
-        fill="#7DD3FC"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13">"Java Backend"</text>
-
-  <text x="842" y="168"
-        fill="#94A3B8"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13">secondary</text>
-  <text x="930" y="168"
-        fill="#7DD3FC"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13">"Python"</text>
-
-  <text x="842" y="196"
-        fill="#94A3B8"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13">web</text>
-  <text x="930" y="196"
-        fill="#7DD3FC"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13">"HTML / CSS"</text>
-
-  <text x="818" y="218"
-        fill="#64748B"
-        font-family="ui-monospace,SFMono-Regular,Consolas,monospace"
-        font-size="13">}</text>
+<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1117"/><stop offset="0.58" stop-color="#0D1117"/><stop offset="1" stop-color="#0B1722"/></linearGradient>
+<linearGradient id="accent" x1="86" y1="0" x2="1160" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#3B82F6"/><stop offset="0.52" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1040 118) rotate(180) scale(360 180)" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE" stop-opacity="0.11"/><stop offset="0.62" stop-color="#3B82F6" stop-opacity="0.05"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8BA3B8" stroke-width="0.65" opacity="0.055"/></pattern>
+</defs>
+<rect width="1280" height="260" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="260" rx="18" fill="url(#grid)"/>
+<rect width="1280" height="260" rx="18" fill="url(#glow)"/>
+<rect x="70" y="54" width="3" height="146" rx="1.5" fill="url(#accent)"/>
+<text x="102" y="82" fill="#7DD3FC" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2.3">BACKEND DEVELOPER</text>
+<text x="100" y="137" fill="#F0F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="47" font-weight="600" letter-spacing="-0.4">Roman Shulpov</text>
+<text x="102" y="176" fill="#AEBBC8" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400">Building practical backend systems, APIs and automation.</text>
+<g opacity="0.96">
+<path d="M860 130H936" stroke="#24445D" stroke-width="2"/>
+<path d="M1010 130H1086" stroke="#24445D" stroke-width="2"/>
+<path d="M898 130V88H970" stroke="#1D3A51" stroke-width="1.5"/>
+<path d="M1048 130V178H970" stroke="#1D3A51" stroke-width="1.5"/>
+<circle cx="846" cy="130" r="14" fill="#101B26" stroke="#2F6D96" stroke-width="1.5"/>
+<circle cx="998" cy="130" r="18" fill="#101B26" stroke="#3A7CA5" stroke-width="1.5"/>
+<circle cx="1100" cy="130" r="14" fill="#101B26" stroke="#6E5EA8" stroke-width="1.5"/>
+<circle cx="846" cy="130" r="4" fill="#38BDF8"/>
+<circle cx="998" cy="130" r="5" fill="#22D3EE"/>
+<circle cx="1100" cy="130" r="4" fill="#A78BFA"/>
+<rect x="932" y="74" width="76" height="28" rx="14" fill="#0F1822" stroke="#23455D"/>
+<rect x="932" y="164" width="76" height="28" rx="14" fill="#0F1822" stroke="#23455D"/>
+<circle cx="948" cy="88" r="3.5" fill="#3B82F6"/>
+<circle cx="962" cy="88" r="3.5" fill="#22D3EE"/>
+<circle cx="948" cy="178" r="3.5" fill="#22D3EE"/>
+<circle cx="962" cy="178" r="3.5" fill="#A78BFA"/>
+<path d="M1128 82H1178" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.65"/>
+<path d="M1138 188H1178" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.28"/>
+</g>
 </svg>
