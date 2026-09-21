@@ -1,8 +1,19 @@
-# Backend Roadmap
+# Java Backend Roadmap
 
-Main direction: **Java backend development**
+This is the detailed roadmap behind my GitHub profile.
 
-## 1. Java Core — 🟠 in progress
+The rule is simple: a topic is not considered finished only because I read about it.  
+I should be able to **solve tasks, build something with it and explain my decisions**.
+
+## Status
+
+- 🟠 In progress
+- ⚪ Planned
+- 🟢 Completed
+
+---
+
+## 1. Java Core — 🟠 In progress
 
 - [ ] Variables and primitive types
 - [x] Conditions
@@ -10,18 +21,30 @@ Main direction: **Java backend development**
 - [ ] Methods — reinforce and practise
 - [ ] Arrays
 - [ ] Strings
-- [ ] Debugging basics
-- [ ] Code readability and naming
+- [ ] Basic debugging
+- [ ] Naming and readable code
 
 ### Checkpoint
-Be able to explain primitive vs reference types, local variables, method parameters and return values, `return` vs console output, `static`, stack frames, and the basic stack/heap distinction.
 
-### Project
-`java-core-lab`
+I should be able to explain:
+
+- primitive vs reference types;
+- local variables;
+- method parameters and return values;
+- `return` vs console output;
+- basic use of `static`;
+- stack frames;
+- the basic stack / heap distinction.
+
+### Project milestone
+
+**`java-core-lab`**
+
+A curated repository with selected tasks and mini-applications instead of dozens of tiny lesson repositories.
 
 ---
 
-## 2. OOP — ⚪ planned
+## 2. OOP — ⚪ Planned
 
 - [ ] Classes and objects
 - [ ] Constructors
@@ -33,12 +56,15 @@ Be able to explain primitive vs reference types, local variables, method paramet
 - [ ] `static`
 - [ ] `final`
 
-### Project
-`java-oop-project`
+### Project milestone
+
+**`java-oop-project`**
+
+A small application with a clear domain model and several interacting classes.
 
 ---
 
-## 3. Exceptions & Collections — ⚪ planned
+## 3. Exceptions & Collections — ⚪ Planned
 
 - [ ] Exceptions
 - [ ] Custom exceptions
@@ -51,65 +77,83 @@ Be able to explain primitive vs reference types, local variables, method paramet
 - [ ] `Comparable`
 - [ ] `Comparator`
 
-### Project
-`java-collections-project`
+### Project milestone
+
+**`java-collections-project`**
+
+Store, search, filter, sort and update domain objects.
 
 ---
 
-## 4. Files, build tools & Git — ⚪ planned
+## 4. Files, build tools & Git — ⚪ Planned
 
-- [ ] File reading/writing
+- [ ] Reading and writing files
+- [ ] Basic serialization formats
 - [ ] Maven or Gradle
 - [ ] Dependencies
 - [ ] `.gitignore`
 - [ ] Branches
 - [ ] Pull requests
-- [ ] Project README
+- [ ] Good commit messages
+- [ ] Project README structure
 
 ---
 
-## 5. SQL & PostgreSQL — ⚪ planned
+## 5. SQL & PostgreSQL — ⚪ Planned
 
 - [ ] Relational model
 - [ ] Tables and keys
-- [ ] CRUD queries
-- [ ] JOIN
+- [ ] `SELECT`
+- [ ] `INSERT`
+- [ ] `UPDATE`
+- [ ] `DELETE`
+- [ ] `JOIN`
 - [ ] PostgreSQL
 - [ ] JDBC
+- [ ] Index basics
 
-### Project
-`java-sql-project`
+### Project milestone
+
+**`java-sql-project`**
+
+Move application data from memory/files into PostgreSQL.
 
 ---
 
-## 6. HTTP & REST — ⚪ planned
+## 6. HTTP & REST — ⚪ Planned
 
-- [ ] Request / response
-- [ ] HTTP methods
+- [ ] Client / server model
+- [ ] HTTP request / response
+- [ ] Methods
 - [ ] Status codes
 - [ ] Headers
 - [ ] JSON
 - [ ] REST principles
+- [ ] API design basics
 
 ---
 
-## 7. Spring Boot — ⚪ planned
+## 7. Spring Boot — ⚪ Planned
 
 - [ ] Spring basics
 - [ ] Dependency Injection
+- [ ] Spring Boot
 - [ ] Controllers
 - [ ] Services
 - [ ] Repositories
-- [ ] DTO
+- [ ] DTOs
 - [ ] Validation
 - [ ] Global exception handling
 
-### Project
-`spring-rest-api`
+### Project milestone
+
+**`spring-rest-api`**
+
+A documented REST API with a clean controller → service → repository structure.
 
 ---
 
-## 8. JPA / Hibernate — ⚪ planned
+## 8. JPA / Hibernate — ⚪ Planned
 
 - [ ] JPA
 - [ ] Hibernate
@@ -117,11 +161,11 @@ Be able to explain primitive vs reference types, local variables, method paramet
 - [ ] Relationships
 - [ ] Spring Data JPA
 - [ ] Transactions
-- [ ] Migrations
+- [ ] Database migrations
 
 ---
 
-## 9. Testing — ⚪ planned
+## 9. Testing — ⚪ Planned
 
 - [ ] JUnit
 - [ ] Mockito
@@ -132,18 +176,18 @@ Be able to explain primitive vs reference types, local variables, method paramet
 
 ---
 
-## 10. Security — ⚪ planned
+## 10. Security — ⚪ Planned
 
 - [ ] Authentication
 - [ ] Authorization
 - [ ] Password hashing
 - [ ] Spring Security
 - [ ] JWT basics
-- [ ] Roles
+- [ ] Roles and permissions
 
 ---
 
-## 11. Docker & CI/CD — ⚪ planned
+## 11. Deployment & CI/CD — ⚪ Planned
 
 - [ ] Linux basics
 - [ ] Environment variables
@@ -152,21 +196,41 @@ Be able to explain primitive vs reference types, local variables, method paramet
 - [ ] GitHub Actions
 - [ ] CI pipeline
 - [ ] Deployment basics
+- [ ] Logging / observability basics
 
-### Final project
-`backend-final-project`
+### Final milestone
 
-It should include:
+**`backend-final-project`**
+
+The final portfolio project should contain:
 
 - Java
 - Spring Boot
 - PostgreSQL
-- REST
-- JPA/Hibernate
+- REST API
+- JPA / Hibernate
 - validation
-- error handling
+- consistent error handling
 - authentication and authorization
-- tests
+- unit and integration tests
 - Docker
 - CI
-- clear README and API documentation
+- environment configuration
+- useful README and API documentation
+
+---
+
+## Portfolio rule
+
+A repository becomes a **pinned project** only when it has:
+
+- a clear purpose;
+- clean structure;
+- meaningful commit history;
+- launch instructions;
+- an honest stack list;
+- screenshots / demo when relevant;
+- no secrets or API keys;
+- tests where they make sense;
+- an explanation of what I implemented;
+- enough understanding for me to explain the code myself.
