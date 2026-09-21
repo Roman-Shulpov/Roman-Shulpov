@@ -4,17 +4,15 @@
 
 ## About Me
 
+<h3>Backend Developer</h3>
+
 <p>
-  <strong>Software Engineering student</strong> focused on <strong>Java backend development</strong>.<br>
-  <sub>Building practical projects, learning backend architecture and APIs, and using Python for automation and scripting.</sub>
+  I build <strong>backend services, APIs, automation tools and integrations</strong>.<br>
+  My projects include browser automation, Telegram bots and commercial web solutions.
 </p>
 
 <p>
-  <code>Java</code>
-  <code>Python</code>
-  <code>Backend</code>
-  <code>Automation</code>
-  <code>HTML / CSS</code>
+  Focused on <strong>clean architecture, maintainable code and practical development</strong>.
 </p>
 
 ---
@@ -120,10 +118,7 @@
 ### 🤝 Connect with me:
 
 <p>
-  <a href="https://t.me/RomkaKub">
-    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:romka.kyb@mail.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=maildotru&logoColor=white" alt="Email" />
+  <a href="https://t.me/RomkaKub" title="Telegram — @RomkaKub">
+    <img src="./assets/telegram.svg" width="48" height="48" alt="Telegram" />
   </a>
 </p>
