@@ -54,28 +54,24 @@
 ## Stats
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Roman-Shulpov&show_icons=true&hide_border=true&border_radius=16&bg_color=0F172A&title_color=A78BFA&text_color=E5E7EB&icon_color=22D3EE&ring_color=F59E0B&include_all_commits=true"
-    alt="GitHub Stats"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Shulpov&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=0F172A&title_color=A78BFA&text_color=E5E7EB"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/Roman-Shulpov">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api?username=Roman-Shulpov&show_icons=true&hide_border=true&border_radius=18&bg_color=0B1220&title_color=7DD3FC&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE&include_all_commits=true"
+      alt="GitHub Stats"
+    />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/RomanShulpov/">
     <img
-      width="56%"
+      width="62%"
       src="https://leetcard.jacoblin.cool/RomanShulpov?theme=dark&font=Inter&ext=heatmap"
       alt="LeetCode Stats"
     />
   </a>
 </p>
-
 ---
 
 ## Featured Projects
