@@ -53,10 +53,12 @@
 
 ## Stats
 
+## Stats
+
 <p align="center">
   <a href="https://github.com/Roman-Shulpov">
     <img
-      height="170"
+      width="46%"
       src="https://github-readme-stats.vercel.app/api?username=Roman-Shulpov&show_icons=true&hide_border=true&border_radius=18&bg_color=0B1220&title_color=7DD3FC&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE&include_all_commits=true"
       alt="GitHub Stats"
     />
@@ -66,13 +68,12 @@
 <p align="center">
   <a href="https://leetcode.com/u/RomanShulpov/">
     <img
-      width="62%"
+      width="56%"
       src="https://leetcard.jacoblin.cool/RomanShulpov?theme=dark&font=Inter&ext=heatmap"
       alt="LeetCode Stats"
     />
   </a>
 </p>
----
 
 ## Featured Projects
 
