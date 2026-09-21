@@ -4,32 +4,35 @@
 
 ## About Me
 
-<p>
-  I'm <strong>Roman Shulpov</strong>, a backend developer focused on practical server-side applications and automation.
-  I build APIs, integrations, Telegram bots and browser agents, with an emphasis on clean architecture, maintainable code and real-world use.
-</p>
+> ### Backend developer focused on Java
+>
+> I'm **Roman Shulpov**. I build practical projects, experiment with backend development and use Python for bots, automation and small tools.
+>
+> Right now I'm strengthening my Java backend skills and moving toward **Spring Boot, PostgreSQL and REST APIs**.
 
 ---
 
 ## Stack
 
-### Languages
+### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
 </p>
 
-### Backend / Learning Next
+### Backend & Data
 
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### Web Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### Tools
@@ -37,31 +40,32 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Clean_Code-111827?style=for-the-badge&logoColor=white" alt="Clean Code" />
 </p>
 
-## Stats
+### Learning Next
 
-<p align="center">
-  <a href="https://github.com/Roman-Shulpov">
-    <img
-      width="46%"
-      src="https://github-readme-stats.vercel.app/api?username=Roman-Shulpov&show_icons=true&hide_border=true&border_radius=18&bg_color=0B1220&title_color=7DD3FC&text_color=CBD5E1&icon_color=A78BFA&ring_color=22D3EE&include_all_commits=true"
-      alt="GitHub Stats"
-    />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/REST_APIs-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
+
+---
+
+## Coding
 
 <p align="center">
   <a href="https://leetcode.com/u/RomanShulpov/">
     <img
-      width="56%"
+      width="52%"
       src="https://leetcard.jacoblin.cool/RomanShulpov?theme=dark&font=Inter&ext=heatmap"
       alt="LeetCode Stats"
     />
   </a>
 </p>
+
+---
 
 ## Featured Projects
 
@@ -70,7 +74,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/Roman-Shulpov/TT-AI-Agent"><strong>TT-AI-Agent</strong></a>
       <br>
-      <sub>Browser AI agent</sub>
+      <sub>Browser AI agent with visible Chromium automation.</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=7DD3FC" alt="Python" />
       <img src="https://img.shields.io/badge/Playwright-1E293B?style=flat-square&logo=playwright&logoColor=7DD3FC" alt="Playwright" />
@@ -79,7 +83,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/Roman-Shulpov/bmx_bot"><strong>bmx_bot</strong></a>
       <br>
-      <sub>Telegram bot</sub>
+      <sub>Telegram bot for a BMX community.</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=7DD3FC" alt="Python" />
       <img src="https://img.shields.io/badge/aiogram-1E293B?style=flat-square&logo=telegram&logoColor=7DD3FC" alt="aiogram" />
@@ -90,7 +94,7 @@
     <td width="50%" valign="top">
       <strong>ZHELEZOBETON Market</strong>
       <br>
-      <sub>Commercial web layout</sub>
+      <sub>Private commercial web project for a local clothing brand.</sub>
       <br><br>
       <img src="https://img.shields.io/badge/HTML5-1E293B?style=flat-square&logo=html5&logoColor=F97316" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1E293B?style=flat-square&logo=css3&logoColor=38BDF8" alt="CSS3" />
@@ -98,7 +102,7 @@
     <td width="50%" valign="top">
       <strong>Java Backend Project</strong>
       <br>
-      <sub>Next portfolio build</sub>
+      <sub>Next portfolio project — currently in progress.</sub>
       <br><br>
       <img src="https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=F59E0B" alt="Java" />
       <img src="https://img.shields.io/badge/Spring_Boot-1E293B?style=flat-square&logo=springboot&logoColor=84CC16" alt="Spring Boot" />
