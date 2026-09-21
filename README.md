@@ -115,8 +115,6 @@
 
 ### 🤝 Connect with me:
 
-<p>
-  <a href="https://t.me/RomkaKub" title="Telegram — @RomkaKub">
-    <img src="./assets/telegram-contact-v6.svg" width="392" alt="Telegram — @RomkaKub" />
-  </a>
-</p>
+<a href="https://t.me/RomkaKub" title="Telegram — @RomkaKub">
+  <img src="https://img.shields.io/badge/%40RomkaKub-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram — @RomkaKub" />
+</a>
