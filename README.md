@@ -117,6 +117,6 @@
 
 <p>
   <a href="https://t.me/RomkaKub" title="Telegram — @RomkaKub">
-    <img src="./assets/telegram.svg" height="44" alt="Telegram — @RomkaKub" />
+    <img src="./assets/telegram.svg" height="46" alt="Telegram — @RomkaKub" />
   </a>
 </p>
