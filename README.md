@@ -6,14 +6,10 @@
 
 <h3>Backend Developer</h3>
 
-<p>
-  I build <strong>backend services, APIs, automation tools and integrations</strong>.<br>
-  My projects include browser automation, Telegram bots and commercial web solutions.
-</p>
-
-<p>
-  Focused on <strong>clean architecture, maintainable code and practical development</strong>.
-</p>
+- **What I do** — build backend services, APIs, integrations and automation tools.
+- **What I work on** — browser agents, Telegram bots, internal tools and practical web products.
+- **How I work** — clean structure, maintainable code and clear project logic.
+- **What matters to me** — projects that solve real tasks and can be improved, extended and maintained.
 
 ---
 
@@ -119,6 +115,6 @@
 
 <p>
   <a href="https://t.me/RomkaKub" title="Telegram — @RomkaKub">
-    <img src="./assets/telegram.svg" width="48" height="48" alt="Telegram" />
+    <img src="./assets/telegram.svg" width="196" alt="Telegram — @RomkaKub" />
   </a>
 </p>
