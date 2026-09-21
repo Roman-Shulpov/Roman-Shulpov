@@ -1,0 +1,27 @@
+<svg width="116" height="30" viewBox="0 0 116 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tgStroke" x1="0" y1="0" x2="116" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="tgFill" x1="10" y1="9" x2="22" y2="21" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#229ED9"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="114.5" height="28.5" rx="8.5" fill="#0B1220" fill-opacity="0.2"/>
+  <rect x="0.75" y="0.75" width="114.5" height="28.5" rx="8.5" stroke="url(#tgStroke)" stroke-opacity="0.38" stroke-width="1"/>
+
+  <circle cx="16" cy="15" r="6.8" fill="url(#tgFill)"/>
+  <path d="M13 14.8L18.9 12.5C19.2 12.4 19.5 12.6 19.4 12.8L18.5 17C18.4 17.3 18.2 17.5 17.9 17.3L16.5 16.3L15.8 17C15.7 17.1 15.6 17.2 15.4 17.2L15.5 15.8L18.2 13.4C18.3 13.2 18.2 13.2 18 13.3L14.7 15.3L13.2 14.9C13 14.8 13 14.8 13 14.8Z" fill="white"/>
+
+  <text x="27" y="19.2"
+        fill="#F0F6FC"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="12.6"
+        font-weight="600">
+    @RomkaKub
+  </text>
+</svg>
