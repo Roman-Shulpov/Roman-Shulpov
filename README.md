@@ -4,12 +4,10 @@
 
 ## About Me
 
-<h3>Backend Developer</h3>
-
-- **What I do** — build backend services, APIs, integrations and automation tools.
-- **What I work on** — browser agents, Telegram bots, internal tools and practical web products.
-- **How I work** — clean structure, maintainable code and clear project logic.
-- **What matters to me** — projects that solve real tasks and can be improved, extended and maintained.
+<p>
+  I'm <strong>Roman Shulpov</strong>, a backend developer focused on practical server-side applications and automation.
+  I build APIs, integrations, Telegram bots and browser agents, with an emphasis on clean architecture, maintainable code and real-world use.
+</p>
 
 ---
 
